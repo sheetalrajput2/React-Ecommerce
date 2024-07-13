@@ -1,0 +1,39 @@
+.AboutContainer{
+    background-color: thistle;
+}
+.AboutContainer h2{
+    text-align: center;
+    padding-top: 1%;
+    text-decoration: underline;
+}
+
+.AboutContainer h2:hover{
+    color: rgb(82, 168, 156);
+    text-decoration: rgb(137, 77, 77) underline;
+}
+.AboutContainer h4{
+    color: brown;
+    position: absolute;
+    left: 15%;
+    /* margin: 1% 0; */
+}
+
+.AboutContainer p:nth-child(2){
+    font-weight: 700;
+    color: rgb(196, 119, 25);
+    text-align: center;
+    margin-top: 0;
+}
+.AboutContainer p{
+    width: 70%;
+    text-align: left;
+    margin-top: 5%;
+    margin-bottom: 2.5%;
+}
+.AboutContainer p:last-child{
+    text-align: center;
+    color: rgb(80, 80, 80);
+    padding-bottom: 3%;
+    margin-bottom: 0;
+
+}

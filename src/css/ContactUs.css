@@ -1,0 +1,43 @@
+.contactContainer{
+    background-color: rgb(222, 212, 254);
+    margin-top: 0%;
+    padding: 1.5% 6%;
+}
+.contactContainer p:first-child{
+    font-weight: 600;
+    color: rgb(2, 144, 144);
+}
+.contactContainer p:nth-child(3){
+    text-align: left;
+    font-size: 18px;
+    padding: 0.5% 0%;
+}
+.contactContainer h3{
+    margin: 1% 0%;
+    font-size: 20px;
+}
+
+.contactContainer h6{
+    margin-bottom: 1%;
+}
+.contactContainer p:nth-child(7){
+    display: inline;
+}
+.contactContainer strong{
+    display: block;
+}
+.contactContainer p:nth-child(9){
+    display: inline;
+}
+.contactContainer p:nth-child(11){
+    display: inline;
+}
+hr{
+    width: 90%;
+    border: 1.5px solid rgb(1, 65, 65);
+    margin: 2% auto
+}
+.contactContainer p:last-child{
+    color: gray;
+    padding: 0 6%;
+}
